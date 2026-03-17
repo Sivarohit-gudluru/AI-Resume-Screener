@@ -1,0 +1,18 @@
+<<<<<<< HEAD
+venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.env
+*.pkl
+=======
+venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.env
+*.pkl
+>>>>>>> e79958e (final update with gap analysis + reports)
+data/
